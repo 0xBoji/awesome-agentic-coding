@@ -83,7 +83,7 @@ Contributions are welcome and encouraged. If you want to add a tool, improve a d
 1. Fork this repository.
 2. Add your entry using the exact format below.
 3. Make sure the tool is **directly related to agentic coding**.
-4. Make sure the project is **open source with a clear license**.
+4. Make sure the project is **open source with a clear license**. Licenses such as MIT, Apache-2.0, AGPL-3.0, and **CC0-1.0** are acceptable when they clearly cover the project.
 5. Use the official project URL and keep the description concise, specific, and useful.
 6. Open a pull request with a short explanation of why the addition belongs here.
 
@@ -91,4 +91,4 @@ Contributions are welcome and encouraged. If you want to add a tool, improve a d
 * [Tool Name](URL) - A concise, 1-2 sentence description highlighting its specific value proposition.
 ```
 
-Please prefer high-signal additions over list bloat. Proprietary products, IDE wrappers without a clear agentic-coding focus, generic AI tooling, unrelated prompt collections, and projects without a clear open-source license should stay out.
+Please prefer high-signal additions over list bloat. Proprietary products, IDE wrappers without a clear agentic-coding focus, generic AI tooling, unrelated prompt collections, and projects without a clear open-source license should stay out. **CC0-1.0 is acceptable** when it clearly applies to the project.

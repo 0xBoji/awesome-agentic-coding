@@ -27,6 +27,7 @@ Please use this exact format for every item:
 Before opening a PR, please check that your contribution:
 
 - Uses the project's **official** website or GitHub repository URL
+- Has a clear open-source license; **CC0-1.0 is acceptable** when it clearly applies to the project
 - Fits the category where you added it
 - Adds specific value rather than generic hype
 - Avoids duplicate entries
